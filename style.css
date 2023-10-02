@@ -1,0 +1,41 @@
+body {
+    background-color: #FFE0B5;
+    position: relative;
+}
+
+img {
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+h1 {
+    color: #CA2E55;
+}
+
+Pour centrer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    font-size: large;
+    color: #CA2E55;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colonne1 {
+    float: left;
+    width: 50%;
+}
+
+.colonne2 {
+    margin-right: 220px;
+}
+
+.adresse {
+    float: right;
+}
